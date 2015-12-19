@@ -18,19 +18,19 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 _milión</td>
+<td style="text-align: left;">140 miliónov</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 _milión</td>
+<td style="text-align: left;">400 miliónov</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 _milión</td>
+<td style="text-align: left;">882 miliónov</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 _miliarda</td>
+<td style="text-align: left;">1.1 miliardy</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
